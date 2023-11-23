@@ -1,0 +1,1 @@
+#include "\z\meh\addons\compat_acre\script_component.hpp"
