@@ -1,7 +1,7 @@
 #define MAINPREFIX z
 #define PREFIX meh
 
-#define REQUIRED_VERSION 2.14
+#define REQUIRED_VERSION 2.16
 
 // Versioning
 #include "\z\meh\addons\main\script_version.hpp"
